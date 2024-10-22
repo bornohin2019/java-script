@@ -21,10 +21,20 @@
 // console.log(person)
 // console.log(typeof(person))
 
-Array
+// Array
 
-let car = ["Ferari","BMW","TATA"];
-console.log(car)
-let money = car.reverse()
-console.log(money)
+// let car = ["Ferari","BMW","TATA"];
+// console.log(car)
+// let money = car.reverse()
+// console.log(money)
  
+        // var number=["Galib","Rakib","Rana","others"];
+        // console.log(number);
+        //   number.pop();
+        //   console.log(number)
+        
+        var number=["Galib","Rakib","Rana","others"];
+        console.log(number);
+          number.unshift("Badhon");
+          console.log(number);
+
